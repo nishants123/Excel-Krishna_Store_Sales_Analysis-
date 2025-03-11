@@ -39,5 +39,7 @@ To capitalize on these insights, Krishna Store can focus its marketing strategie
 Technology Used:
 
 • Excel
+
 • PowerPoint
+
 • Presentation
